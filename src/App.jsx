@@ -253,7 +253,7 @@ function App() {
                   <br />
                   Économie Gestion
                 </h3>
-
+                 <p> Lycée Lkrib _ Siliana </p>
                 <strong>Mention Passable</strong>
               </div>
             </div>
