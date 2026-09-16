@@ -665,6 +665,84 @@ function App() {
           </div>
         </section>
 
+
+{/* ================= CERTIFICATIONS ================= */}
+<section id="certifications" className="section certifications-section">
+
+  <div className="section-heading">
+    <span className="section-number">06</span>
+    <h2>CERTIFICATIONS</h2>
+    <p>
+      Professional certifications and continuous learning.
+    </p>
+  </div>
+
+  <div className="certifications-grid">
+
+    {/* CISCO */}
+    <article className="certification-card">
+
+      <div className="certification-image">
+        <img
+          src="/assets/cyber.png"
+          alt="Cisco Networking Academy - Introduction to Cybersecurity Certificate"
+        />
+      </div>
+
+      <div className="certification-content">
+        <span className="certification-label">
+          CISCO NETWORKING ACADEMY
+        </span>
+
+        <h3>Introduction to Cybersecurity</h3>
+
+        <p>
+          Certificate of Course Completion focused on fundamental
+          cybersecurity concepts, threats, vulnerabilities and
+          security awareness.
+        </p>
+
+        <span className="certification-status">
+          ✓ Certificate of Course Completion
+        </span>
+      </div>
+
+    </article>
+
+
+    {/* HASHGRAPH */}
+    <article className="certification-card">
+
+      <div className="certification-image">
+        <img
+          src="/assets/hash.png"
+          alt="The Hashgraph Association - Hashgraph Developer Certificate"
+        />
+      </div>
+
+      <div className="certification-content">
+        <span className="certification-label">
+          THE HASHGRAPH ASSOCIATION
+        </span>
+
+        <h3>Hashgraph Developer</h3>
+
+        <p>
+          Certificate of Completion covering Hashgraph development,
+          distributed ledger technologies and the Hedera ecosystem.
+        </p>
+
+        <span className="certification-status">
+          ✓ Certificate of Completion
+        </span>
+      </div>
+
+    </article>
+
+  </div>
+
+</section>
+
        {/* ================= CONTACT ================= */}
 <section id="contact" className="section contact-section">
   <div className="section-label">07 — CONTACT</div>
