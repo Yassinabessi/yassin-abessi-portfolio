@@ -739,6 +739,61 @@ function App() {
 
     </article>
 
+    {/* HP LIFE */}
+    <article className="certification-card">
+
+      <div className="certification-image">
+        <img
+          src="/assets/analyse des données.jpeg"
+          alt="HP FOUNDATION - Sciences et Analyses Des Données Certificate"
+        />
+      </div>
+
+      <div className="certification-content">
+        <span className="certification-label">
+         HP FOUNDATION
+        </span>
+
+        <h3>Sciences et Analyses Des Données</h3>
+
+        <p>
+          Formation axée sur l’analyse et l’interprétation des données pour faciliter la prise de décision et développer des stratégies basées sur les données.
+        </p>
+
+        <span className="certification-status">
+          ✓ Certificate of Completion
+        </span>
+      </div>
+
+    </article>
+
+ {/* HP LIFE */}
+    <article className="certification-card">
+
+      <div className="certification-image">
+        <img
+          src="/assets/agile.jpeg"
+          alt="HP FOUNDATION - Gestion De Projet Agile Certificate"
+        />
+      </div>
+
+      <div className="certification-content">
+        <span className="certification-label">
+         HP FOUNDATION
+        </span>
+
+        <h3>Gestion De Projet Agile </h3>
+
+        <p>
+          Formation portant sur les méthodologies Agile, notamment Scrum et Kanban, pour organiser, piloter et améliorer efficacement les projets.
+        </p>
+
+        <span className="certification-status">
+          ✓ Certificate of Completion
+        </span>
+      </div>
+
+    </article>
   </div>
 
 </section>
